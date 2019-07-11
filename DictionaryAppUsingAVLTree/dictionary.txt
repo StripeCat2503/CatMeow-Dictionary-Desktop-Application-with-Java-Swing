@@ -1,0 +1,14 @@
+Music;Am nhac;I love music!
+Computer;May vi tinh;I bought a computer yesterday
+Bottle;Chai, lo, vat dung de dung nuoc;I have a bottle of water, it is full
+Banana;Qua chuoi;I eat a banana
+Bottle  ;Chai nuoc;Aaaa
+Goodbye;Chao tam biet;Goodbye! See you later!
+Elephant;Con voi;I love elephant
+Hello;Xin chao;Hello, my name is John
+Tank;Xe tank;There are a lot of tanks in the second world of war
+Study;Hoc tap;If you studied hard, you could pass the final exam
+People;Nguoi (so dong);Nowadays, people like to use the internet
+Superman;Sieu nhan;I want to be the superman!
+War;Chien tranh;The second world of war was so cruel
+World;The gioi;The world is beautiful!
